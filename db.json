@@ -156,6 +156,21 @@
       "course": "Software Testing",
       "lighthouse": "Yerwada Lighthouse",
       "id": 111
+    },
+    {
+      "name": "Sanjay Mane",
+      "email": "snaju@gmail.com",
+      "mobile": 6574557353,
+      "gender": "male",
+      "qualification": "MBA",
+      "yopass": 2018,
+      "college": "MIT College",
+      "city": "Pune",
+      "address": "vinayak Nagar, Kolhapur",
+      "workexp": 3,
+      "course": "Web Designing",
+      "lighthouse": "Tingre Nagar Lighthouse",
+      "id": 112
     }
   ],
   "courses": [
